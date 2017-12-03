@@ -19,7 +19,7 @@
 # - The VLAN id must be an integer in the range 1..4094.                                           #
 # - Every nodes have to be healthy.                                                                #
 #                                                                                                  #
-# Author: Pablo Garcia Arevalo (ACS Consultant at NetApp Iberia)                                   #
+# Author: Pablo Garcia Arevalo (Professional Services Consultant at NetApp)                        #
 #                                                                                                  #
 #==================================================================================================#
 
